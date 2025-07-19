@@ -869,7 +869,7 @@ section.Copyright-wrapper {
     font-size: 18px;
 }
 .menu-bar-wrapper ul.menu-bar-container {
-    height: 150px;
+    height: 165px;
         text-align: center;
         padding: 10px;}
 
@@ -943,7 +943,6 @@ section.Copyright-wrapper {
         background-color: rgb(1, 116, 120);
         font-family: "Bebas Neue", sans-serif;
         font-size: 12px;
-        PADDING: 15PX 5px 15PX 5PX;
         font-weight: 500;
         ALIGN-CONTENT: center;
         width: 25%;
@@ -1023,7 +1022,7 @@ color: #000000;
     font-size: 24px;
 }
 .wrapper .COLUMN {
-        width: 38%;
+        width: 37%;
                 margin-bottom: 10px;
             padding: 20px 15px 25px 15px;
     }
